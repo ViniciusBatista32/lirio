@@ -1,0 +1,26 @@
+@import url('http://fonts.cdnfonts.com/css/retroica');
+font-family: 'Retroica', sans-serif;
+
+html{
+    height: 100%;
+    width: 100%;
+}
+
+body{
+    height: 100%;
+    width: 100%;
+}
+
+.vertical-align{
+    position: relative;
+    top: 30vh;
+}
+
+.margins-5{
+    margin-right: 20vw;
+    margin-left: 20vw;
+}
+
+.roboto{
+    font-family: Retroica;
+}
